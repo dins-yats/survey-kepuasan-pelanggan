@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="https://github.com/dins-yats/Portofolio_hayatudin/blob/main/public/img/porto.jpg"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/dins-yats/survey-kepuasan-pelanggan/blob/main/public/img/depan.png"></a></p>
 
 ## About The Project
 
